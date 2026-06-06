@@ -1,0 +1,9 @@
+# No external Python packages required.
+# This script uses only the Python standard library (argparse, subprocess, sys).
+#
+# System dependency:
+#   - GnuPG (gpg) must be installed and available in PATH.
+#     Install with:
+#       Debian/Ubuntu: sudo apt install gnupg
+#       Fedora:        sudo dnf install gnupg2
+#       macOS:         brew install gnupg
